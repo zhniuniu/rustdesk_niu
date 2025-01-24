@@ -1,0 +1,5 @@
+[submodule "libs/hbb_common"]
+	path = libs/hbb_common
+	url = https://github.com/rustdesk/hbb_common
+[submodule "zhniuniu/hbb_common"]
+	url = https://github.com/zhniuniu/hbb_common
